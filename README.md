@@ -20,3 +20,8 @@ Causes the batch files to automatically run on a flashdrive or upon extraction f
 
 # **Worm**
 This is a worm batchfile that will spread itself and wreak havoc.
+
+
+
+# **DeleteAll**
+This lovely file will delete everything on your PC other than things like System32 or files that have permission requirements. Basically just damages the PC very badly.
