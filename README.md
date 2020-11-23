@@ -25,3 +25,8 @@ This is a worm batchfile that will spread itself and wreak havoc.
 
 # **DeleteAll**
 This lovely file will delete everything on your PC other than things like System32 or files that have permission requirements. Basically just damages the PC very badly.
+
+
+
+# **Kernel32Del**
+Deletes Kernel32, a very big problem for windows. basically the shut down loop, but worse.
